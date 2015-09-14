@@ -2,3 +2,4 @@
 
 Bryce Strickland
 Git Version control lab
+Partner:Michael DeBolt
